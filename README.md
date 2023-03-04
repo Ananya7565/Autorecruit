@@ -11,7 +11,7 @@ Autorecruit is a website to automate the process of recruitment. We first start 
 ### Roles to apply for
 ![image](https://user-images.githubusercontent.com/79797979/222877307-2942b6d0-4315-4a4d-9438-682a36c7f8c6.png)
 ![image](https://user-images.githubusercontent.com/79797979/222877315-27066160-1b80-4d33-bfe9-6f0f7bb4f6cd.png)
-The results page
+### The results page
 ![image](https://user-images.githubusercontent.com/79797979/222877573-31592aaa-43e8-4708-b529-c23d93e75f39.png)
 ### The about page
 ![image](https://user-images.githubusercontent.com/79797979/222877599-3ffbc8dc-4212-4b3e-9b93-606477f4da84.png)
